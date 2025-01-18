@@ -1,4 +1,4 @@
-import { SkillsProps } from "@/data/interfaces/Skills"
+import { SkillsProps } from "@/app/data/interfaces/Skills";
 
 
 
