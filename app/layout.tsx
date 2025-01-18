@@ -6,7 +6,7 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
   title: {
-    default: "chronark.com",
+    default: "Portfolio",
     template: "%s | chronark.com",
   },
   description: "Co-founder of unkey.dev and founder of planetfall.io",
@@ -66,8 +66,7 @@ export default function RootLayout({
         <Analytics />
       </head>
       <body
-        className={`bg-black ${process.env.NODE_ENV === "development" ? "debug-screens" : undefined
-          }`}
+        className={`bg-black `}
       >
         {children}
       </body>

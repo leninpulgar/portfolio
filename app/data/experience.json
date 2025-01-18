@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Flexio",
+        "location": "Puerto Rico - Remote",
+        "title": "Fullstack Developer",
+        "date": "01/2023 - 11/2024",
+        "responsibilities": [
+            "Led the transition of app development from external teams to internal teams, ensuring a smooth integration into the final product, leading to major investments.",
+            "Developed an app in Flutter, taking full ownership and reducing dependency on external teams.",
+            "Implemented Scrum methodology to optimize team management, focusing on collaboration and continuous delivery of valuable solutions.",
+            "UX/UI Design: Actively participated in creating wireframes, interactive prototypes, and improving the user experience using Figma and other design tools.",
+            "Collaborated with both frontend/backend developers and UX/UI designers to ensure a consistent and fluid user experience across all components of the app.",
+            "Collaborated closely with cross-functional teams, including UX/UI designers and product owners, to ensure that designs aligned with user needs and business goals."
+        ]
+    },
+    {
+        "name": "AVR Media Group",
+        "location": "Miami, FL (Remote)",
+        "title": "Fullstack Developer",
+        "date": "01/2016 - 01/2023",
+        "responsibilities": [
+            "Developed and managed websites and landing pages from concept to deployment, working closely with design teams to ensure UX/UI requirements were met.",
+            "UX/UI Design & Technical Feasibility: Conducted technical assessments for UI designs to ensure they aligned with best design practices, accessibility, and performance standards.",
+            "Worked with Figma and Sketch to create wireframes, prototypes, and visual designs, providing feedback on the feasibility and practicality of design ideas in collaboration with design teams."
+        ]
+
+    }
+]

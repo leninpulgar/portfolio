@@ -1,0 +1,51 @@
+{
+    "technical": [
+      "Data Structure and Algorithms",
+      "Database and SQL",
+      "Object-Oriented Programming (OOP)",
+      "Integrated Development Environments (IDEs)",
+      "Web Development",
+      "Containers",
+      "Git Version Control",
+      "CI/CD",
+      "NextJS",
+      "NestJS",
+      "PHP",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Typescript",
+      "ReactJS",
+      "Drupal",
+      "Wordpress",
+      "VueJS",
+      "PostgreSQL",
+      "Unit Testing",
+      "Angular",
+      "Dart",
+      "Flutter",
+      "Express",
+      "NodeJS"
+    ],
+    "soft": [
+      "Teamwork and Conflict Resolution",
+      "Problem Solving",
+      "Empathy",
+      "Patience",
+      "Curiosity",
+      "Adaptability",
+      "Accountability",
+      "Time Management"
+    ],
+    "languages": [
+      "Spanish (Native)",
+      "English (Advanced)"
+    ],
+    "design": [
+      "Prototyping",
+      "Graphic Design",
+      "Adobe Suite",
+      "Figma"
+    ]
+  }
+  
