@@ -1,4 +1,4 @@
-import { notFound } from "next/navigation";
+/* import { notFound } from "next/navigation";
 import { allProjects } from "contentlayer/generated";
 import { Mdx } from "@/app/components/mdx";
 import { Header } from "./header";
@@ -46,3 +46,4 @@ export default async function PostPage({ params }: Props) {
     </div>
   );
 }
+ */
