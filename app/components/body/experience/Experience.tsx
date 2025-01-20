@@ -14,13 +14,15 @@ export const Experience: React.FC<ExperienceProps> = ({ experience }) => {
         {experience.map((data, index) => (
             <div key={index}>
                 <h3>
-                    <div className="flex justify-items-center items-center gap-2">
-                        <IoBriefcaseOutline /> {data.name} - <IoLocationOutline /> {data.location} <br/>
+                    <div className="flex flex-wrap items-center gap-2">
+                        <IoBriefcaseOutline /> {data.name} - <IoLocationOutline /> {data.location}
                     </div>
-                    <div className="flex justify-items-center items-center gap-2 font-semibold my-3 text-2xl">
+                    <div className="flex flex-wrap items-center gap-2 font-semibold my-3 text-xl sm:text-2xl md:text-3xl">
                         <IoPersonOutline /> {data.title} | <IoWatchOutline /> {data.date}
                     </div>
                 </h3>
+
+
 
                 <ul className="list-disc ml-5">
                         {data.responsibilities.map((responsibility, index) => (

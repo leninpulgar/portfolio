@@ -1,0 +1,18 @@
+{
+  "education": [
+    {
+      "institution": "University Rafael Belloso Chacín",
+      "location": "Maracaibo, Zulia - Venezuela",
+      "degree": "Diploma in Web Design Media",
+      "field_of_study": "Web Design Media",
+      "completion_date": "03/2015"
+    },
+    {
+      "institution": "University Rafael Belloso Chacín",
+      "location": "Maracaibo",
+      "degree": "Bachelor in Business Administration Marketing",
+      "field_of_study": "Marketing",
+      "completion_date": "03/2012"
+    }
+  ]
+}

@@ -7,18 +7,18 @@ import { Analytics } from "./components/analytics";
 export const metadata: Metadata = {
   title: {
     default: "Portfolio",
-    template: "%s | chronark.com",
+    template: "%s",
   },
-  description: "Co-founder of unkey.dev and founder of planetfall.io",
+  description: " ",
   openGraph: {
-    title: "chronark.com",
+    title: "Lenin Pulgar | Full Stack Developer",
     description:
-      "Co-founder of unkey.dev and founder of planetfall.io",
-    url: "https://chronark.com",
-    siteName: "chronark.com",
+      "Full Stack Developer with experience in building responsive, user-friendly websites and web applications. I am skilled in various front-end technologies such as React, HTML, CSS, and JavaScript.",
+    url: "https://github.com/leninpulgar",
+    siteName: "leninpulgar",
     images: [
       {
-        url: "https://chronark.com/og.png",
+        url: "/og.png",
         width: 1920,
         height: 1080,
       },

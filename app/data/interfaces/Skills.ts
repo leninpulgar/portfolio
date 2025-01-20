@@ -9,4 +9,3 @@ export interface SkillsData {
 export  interface SkillsProps {
     skills: SkillsData; // Este es el tipo de las props
   }
-  

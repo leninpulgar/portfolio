@@ -3,7 +3,7 @@ import React from "react";
 import Particles from "./components/particles";
 
 const navigation = [
-  { name: "See my resume", href: "/resume" },
+  { name: "Download my CV", href: "/cv.pdf" },
   { name: "Contact", href: "/contact" },
 ];
 
@@ -34,7 +34,7 @@ export default function Home() {
 
       <div className="hidden w-screen h-px animate-glow md:block animate-fade-right bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
       <div className="my-16 text-center animate-fade-in">
-        <Link href="/resume" className="text-zinc-500 hover:text-zinc-300">
+        <Link href="/resume" className="hover:text-zinc-300 bg-gray-500 hover:bg-gray-300 text-gray-800 p-4 rounded-full hover:text-gray-800">
           Check my resume
         </Link>
       </div>
